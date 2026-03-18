@@ -1,0 +1,34 @@
+{
+  "data": {
+    "data": {
+      "cards": [
+        {},
+        {
+          "card": {
+            "card": {
+              "gridElements": {
+                "infoWithStyle": {
+                  "restaurants": [
+                    {
+                      "info": {
+                        "id": "234567",
+                        "name": "Burger Hub",
+                        "cuisines": [
+                          "Burgers",
+                          "American",
+                          "Fast Food"
+                        ],
+                        "avgRating": 4.5,
+                        "veg": false
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
